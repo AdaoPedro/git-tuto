@@ -1,0 +1,15 @@
+{
+    "name": "administrator/git-tuto",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\GitTuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AdaoPedro",
+            "email": "adaopedro.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
