@@ -2,13 +2,17 @@
     "name": "administrator/git-tuto",
     "autoload": {
         "psr-4": {
-            "Administrator\\GitTuto\\": "src/"
+            "App": "src/"
         }
     },
     "authors": [
         {
             "name": "AdaoPedro",
             "email": "adaopedro.pro@gmail.com"
+        },
+        {
+            "name": "apedrodevelopers",
+            "email": "contacto@apedrodevelopers.ao"
         }
     ],
     "require": {
