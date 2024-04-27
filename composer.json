@@ -2,7 +2,7 @@
     "name": "administrator/git-tuto",
     "autoload": {
         "psr-4": {
-            "Administrator\\GitTuto\\": "src/"
+            "App": "src/"
         }
     },
     "authors": [
